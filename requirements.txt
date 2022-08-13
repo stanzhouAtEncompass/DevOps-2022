@@ -4,3 +4,4 @@ black
 boto3
 ipython
 fire
+wikipedia
